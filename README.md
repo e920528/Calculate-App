@@ -1,28 +1,16 @@
-# calculator-starter
-In-class React practice. Using babel, react
+# Calculator App
+Using babel, react
 
-## install
-```
-npm install
-```
+## Demo
+[demo](https://e920528.github.io/Calculate-App/)
 
-## build
-```
-npm run build
-```
+## 簡介
+This is a iOS-UI-like calculator app.
 
-## start
-```
-npm start
-```
-Then go to `http://localhost:3000`
+## TODO
 
-## lint
-```
-npm run lint
-```
-
-## test
-```
-npm test
-```
+- [X] Elementary arithmetic
+- [X] AC
+- [ ] Decimal arithmetic
+- [ ] %
+- [ ] ±
